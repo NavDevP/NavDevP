@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Naval Plahha, A PHP developer with 5+ years of experience specializing in Laravel and Vue.js</h2>
+<h2 align="left">Hi 👋, I'm Naval, A PHP developer with 5+ years of experience specializing in Laravel and Vue.js</h2>
 
 ###
 
@@ -35,9 +35,6 @@
 ###
 
 <div align="left">
-  <a href="mailto:navalplahha2001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/naval-plahha-547862220/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>

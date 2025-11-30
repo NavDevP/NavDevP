@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Working on backend projects with Laravel/PHP and experimenting with Flutter for mobile development.**
 
-- 🌱 I'm currently learning **Exploring Go and practicing advanced DSA concepts to level up my problem-solving.**
+- 🌱 I'm currently **Exploring Go and practicing advanced DSA concepts to level up my problem-solving.**
 
 - 📫 How to reach me **navalplahha@gmail.com**
 

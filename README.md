@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on Working on backend projects with Laravel/PHP and experimenting with Flutter for mobile development.<br><br>I'm currently Exploring Go and practicing advanced DSA concepts to level up my problem-solving.<br><br>How to reach me navalplahha@gmail.com<br><br>Fun fact I write cleaner code at 2am than at 2pm. (Not an AI generated text, i'm serious)<br><br> Personal Website: https://navalplahha.com<br><br>Know about my experiences https://navalplahha.com/img/all-images/hero/cv.pdf
+I'm currently working on Working on backend projects with Laravel/PHP and experimenting with Flutter for mobile development.<br><br>I'm currently Exploring Go and practicing advanced DSA concepts to level up my problem-solving.<br><br>How to reach me navalplahha@gmail.com<br><br>Fun fact I write cleaner code at 2am than at 2pm.<br><br> Personal Website: https://navalplahha.com<br><br>Know about my experiences https://navalplahha.com/img/all-images/hero/cv.pdf
 
 
 ## Socials:
